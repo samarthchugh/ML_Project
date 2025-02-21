@@ -1,0 +1,1 @@
+## DATA ingestion refers to process of collecting ,importing and sorting data from different sources into a system for further processing and analysis .
