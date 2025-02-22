@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 
 # Function extract detailed error information
@@ -26,4 +26,6 @@ class CustomException(Exception):
     # Override the __str__ method to return a readable error message
     def __str__(self):
         return self.error_message # Returns the detailed error message when printed
+    
+
     
